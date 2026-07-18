@@ -1,4 +1,4 @@
-# Vector Search Is Not Enough - Manim Explainer
+# Hybrid Search + BM25 - Manim Explainer
 
 Manim animation source code for the video [Why vector search is not enough and we need BM25](https://youtu.be/3FbJOKhLv9M).
 
@@ -46,3 +46,9 @@ Use `-pqh` instead of `-pql` for a higher-quality render.
 ## Why This Exists
 
 RAG tutorials often jump straight to embeddings. This explainer slows down the retrieval problem and shows why lexical signals still matter, especially when developer systems need precision, recency, rare terms, or query-specific constraints.
+
+## Related Explainers
+
+- [LLM Arithmetic](https://github.com/leannchen86/llm-arithmetic-manim)
+- [CLIP Encoding](https://github.com/leannchen86/clip-encoding-manim)
+- [Neural Superposition](https://github.com/leannchen86/neural-superposition-manim)
